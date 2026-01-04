@@ -4,14 +4,15 @@ Projeto de análise de dados desenvolvido em **Power BI** com foco em **faturame
 
 ---
 
-## 📌 Objetivo do Projeto
+🎯 Perguntas de Negócio do Projeto
 
-Analisar o comportamento de vendas de jogos ao longo do tempo, identificando:
-- Evolução do faturamento
-- Produtos e categorias com melhor desempenho
-- Tendências mensais de vendas
+Este projeto responde às seguintes perguntas estratégicas:
 
-O objetivo é gerar **insights claros e acionáveis** para apoiar a tomada de decisão.
+- Como o faturamento de jogos evoluiu ao longo dos anos?
+- Quais plataformas geraram maior volume de vendas?
+- Quais gêneros são os mais lucrativos?
+- Quais jogos tiveram maior impacto em vendas totais?
+- Existe padrão ou tendência de crescimento no mercado de jogos ao longo do tempo?
 
 ---
 
@@ -32,20 +33,25 @@ O objetivo é gerar **insights claros e acionáveis** para apoiar a tomada de de
 
 ---
 
-## 📊 Indicadores Analisados (KPIs)
+📊 Indicadores Analisados (KPIs)
 
-- Faturamento total  
-- Evolução do faturamento ao longo do tempo  
-- Quantidade de vendas  
-- Desempenho por categoria/produto  
+- Faturamento total
+- Quantidade total de jogos vendidos
+- Ticket médio por jogo
+- Faturamento por plataforma
+- Faturamento por gênero
+- Evolução do faturamento ao longo do tempo
+
 
 ---
 
-## 🔍 Principais Insights
+💡 Principais Insights
 
-- Crescimento consistente do faturamento ao longo dos meses  
-- Identificação de produtos com maior impacto no faturamento  
-- Padrões de sazonalidade nas vendas  
+- As plataformas PS2, Xbox 360 e PS3 concentram a maior parte do faturamento.
+- O gênero Ação é o mais lucrativo, seguido por Esportes e Tiro.
+- Alguns títulos específicos concentram grande volume de vendas, indicando forte dependência de hits.
+- O mercado apresenta crescimento ao longo do tempo, com oscilações marcadas por ciclos de lançamentos.
+
 
 ---
 
