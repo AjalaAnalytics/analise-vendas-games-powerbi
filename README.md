@@ -58,7 +58,10 @@ O objetivo é gerar **insights claros e acionáveis** para apoiar a tomada de de
 
 ## 📷 Preview do Dashboard
 
-*(Em breve)*
+<img src="https://raw.githubusercontent.com/AjalaAnalytics/analise-vendas-games-powerbi/main/imagens/dashboard-games.png" width="100%">
+
+
+
 
 ---
 
